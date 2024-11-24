@@ -1,0 +1,1 @@
+function downloadCV(){const o=document.createElement("a");o.href="Profile.pdf",o.download="joãocandido_cv.pdf",o.click()}
